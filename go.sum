@@ -15,6 +15,8 @@ github.com/wader/gojq v0.12.1-0.20220328204148-c4e42b829bf0 h1:rj+NshD1TyRazsy+H
 github.com/wader/gojq v0.12.1-0.20220328204148-c4e42b829bf0/go.mod h1:Pq2wrnwmiGxsaT62vOTEXkH3J3tI81VHJ2K2ZePP6oI=
 github.com/wader/readline v0.0.0-20220117233529-692d84ca36e2 h1:AK4wt6mSypGEVAzUcCfrJqVD5hju+w81b9J/k0swV/8=
 github.com/wader/readline v0.0.0-20220117233529-692d84ca36e2/go.mod h1:TJUJCkylZhI0Z07t2Nw6l6Ck7NiZqUpnMlkjEzN7+yM=
+golang.org/x/arch v0.0.0-20220401014709-5424468ecbac h1:05z6X/pDgf2qll8x7kbRRVdr33GjdV/GOCGiQfnaJS8=
+golang.org/x/arch v0.0.0-20220401014709-5424468ecbac/go.mod h1:5om86z9Hs0C8fWVUuoMHwpExlXzs5Tkyp9hOrfG7pp8=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550/go.mod h1:yigFU9vqHzYiE8UmvKecakEJjdnWj3jj499lnFckfCI=
 golang.org/x/lint v0.0.0-20200302205851-738671d3881b/go.mod h1:3xt1FjdF8hUf6vQPIChWIBhFzV8gjjsPE/fR3IyQdNY=
@@ -37,3 +39,4 @@ golang.org/x/xerrors v0.0.0-20191011141410-1b5146add898/go.mod h1:I/5z698sn9Ka8T
 golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
 gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
+rsc.io/pdf v0.1.1/go.mod h1:n8OzWcQ6Sp37PL01nO98y4iUCRdTGarVfzxY20ICaU4=

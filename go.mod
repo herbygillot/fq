@@ -32,6 +32,8 @@ require (
 	golang.org/x/text v0.3.7
 )
 
+require golang.org/x/arch v0.0.0-20220401014709-5424468ecbac
+
 require (
 	github.com/itchyny/timefmt-go v0.1.3 // indirect
 	golang.org/x/sys v0.0.0-20220227234510-4e6760a101f9 // indirect
